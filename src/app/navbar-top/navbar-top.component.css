@@ -1,0 +1,21 @@
+.container-fluid{
+  text-align: center;
+}
+
+
+.container-fluid{
+  background-color: dodgerblue;
+}
+
+#navbar-container{
+  display: inline-block;
+}
+
+#navbar-container a{
+  padding-left : 50px;
+  padding-right: 50px;
+  color: black;
+  background-color: dodgerblue;
+  margin: 2px;
+
+}
